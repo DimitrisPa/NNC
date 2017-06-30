@@ -1,0 +1,1384 @@
+0:-451056594.761025 50:-3900.077814 100:-1059.458082 150:-1059.458082 200:-267.772953 250:-267.772953 300:-243.543013 350:-243.543013 400:-243.543013 450:-243.543013 0:-243.543013 50:-243.543013 100:-243.543013 150:-243.543013 200:-243.543013 250:-243.543013 300:-243.543013 350:-243.543013 400:-243.543013 450:-243.543013 BEST[1]=     -243.5430134676
+generation= 1
+program:
+(0.3)*sig((-8.9)*x1+(-0.9)*x1+(2.3))+(1.9)*sig((84.07)*x1+(-2.09))
+fitness= 243.5430135
+test error=2378.904821
+class test error=0.00%
+0:-243.543013 50:-243.543013 100:-243.543013 150:-243.543013 200:-237.624793 250:-237.624793 300:-237.624793 350:-237.624793 400:-237.624793 450:-105.528101 BEST[2]=     -243.5430134676
+generation= 2
+program:
+(0.3)*sig((-8.9)*x1+(-0.9)*x1+(2.3))+(1.9)*sig((84.07)*x1+(-2.09))
+fitness= 243.5430135
+test error=2378.904821
+class test error=0.00%
+0:-105.528101 50:-105.528101 100:-105.528101 150:-105.528101 200:-105.528101 250:-105.528101 300:-105.528101 350:-105.528101 400:-105.528101 450:-105.528101 BEST[3]=     -105.5281006365
+generation= 3
+program:
+(2.22)*sig((-4.2)*x1+(03.4)*x1+(-1.2)*x1+(3.31))
+fitness= 105.5281006
+test error=954.9677169
+class test error=0.00%
+0:-105.528101 50:-105.528101 100:-105.528101 150:-105.528101 200:-105.528101 250:-105.528101 300:-105.528101 350:-105.528101 400:-105.528101 450:-105.528101 BEST[4]=     -105.5281006365
+generation= 4
+program:
+(2.22)*sig((-4.2)*x1+(03.4)*x1+(-1.2)*x1+(3.31))
+fitness= 105.5281006
+test error=954.9677169
+class test error=0.00%
+0:-105.528101 50:-105.528101 100:-105.528101 150:-105.528101 200:-105.528101 250:-105.528101 300:-105.528101 350:-105.528101 400:-105.528101 450:-105.528101 BEST[5]=     -105.5281006365
+generation= 5
+program:
+(2.22)*sig((-4.2)*x1+(03.4)*x1+(-1.2)*x1+(3.31))
+fitness= 105.5281006
+test error=954.9677169
+class test error=0.00%
+0:-105.528101 50:-92.591857 100:-92.591857 150:-92.591857 200:-92.591857 250:-92.591857 300:-92.591857 350:-92.591857 400:-92.591857 450:-92.591857 BEST[6]=     -105.5281006365
+generation= 6
+program:
+(2.22)*sig((-4.2)*x1+(03.4)*x1+(-1.2)*x1+(3.31))
+fitness= 105.5281006
+test error=954.9677169
+class test error=0.00%
+0:-92.591857 50:-92.591857 100:-92.591857 150:-85.405286 200:-83.291467 250:-83.291467 300:-83.291467 350:-83.291467 400:-83.291467 450:-83.291467 BEST[7]=      -92.5918573682
+generation= 7
+program:
+(2.23)*sig((-4.7)*x1+(01.4)*x1+(5.0))
+fitness= 92.59185737
+test error=905.0786221
+class test error=0.00%
+0:-83.291467 50:-77.310897 100:-77.310897 150:-77.310897 200:-77.310897 250:-25.381657 300:-25.381657 350:-25.381657 400:-25.381657 450:-25.381657 BEST[8]=      -83.2914672035
+generation= 8
+program:
+(2.29)*sig((-4.2)*x1+(03.4)*x1+(-1.2)*x1+(3.31))
+fitness= 83.2914672
+test error=805.482801
+class test error=0.00%
+0:-25.381657 50:-25.381657 100:-25.381657 150:-25.381657 200:-25.381657 250:-25.381657 300:-25.381657 350:-25.271682 400:-25.271682 450:-25.271682 BEST[9]=      -25.3816573100
+generation= 9
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.31))
+fitness= 25.38165731
+test error=251.4057292
+class test error=0.00%
+0:-25.271682 50:-25.271682 100:-25.271682 150:-25.271682 200:-25.271682 250:-25.271682 300:-25.271682 350:-25.271682 400:-25.271682 450:-25.271682 BEST[10]=      -25.2716818855
+generation= 10
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.32))
+fitness= 25.27168189
+test error=246.8860777
+class test error=0.00%
+0:-25.271682 50:-25.271682 100:-25.271682 150:-25.271682 200:-25.271682 250:-25.271682 300:-25.271682 350:-25.271682 400:-25.271682 450:-25.271682 BEST[11]=      -25.2716818855
+generation= 11
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.32))
+fitness= 25.27168189
+test error=246.8860777
+class test error=0.00%
+0:-25.252640 50:-25.252640 100:-25.252640 150:-25.252640 200:-25.252539 250:-25.252539 300:-25.249329 350:-25.249329 400:-25.249329 450:-25.249329 BEST[12]=      -25.2526395155
+generation= 12
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.3242))
+fitness= 25.25263952
+test error=245.0936542
+class test error=0.00%
+0:-25.249329 50:-25.249329 100:-25.249329 150:-25.249329 200:-25.249329 250:-25.249329 300:-25.249329 350:-25.249329 400:-25.249329 450:-25.249329 BEST[13]=      -25.2493285881
+generation= 13
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.3282))
+fitness= 25.24932859
+test error=243.4444777
+class test error=0.00%
+0:-25.249329 50:-25.249329 100:-25.249329 150:-25.249152 200:-25.249152 250:-25.249152 300:-25.159839 350:-24.722426 400:-24.722426 450:-24.722426 BEST[14]=      -25.2493285881
+generation= 14
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.3282))
+fitness= 25.24932859
+test error=243.4444777
+class test error=0.00%
+0:-24.722426 50:-24.722426 100:-24.722426 150:-24.722426 200:-24.722426 250:-24.722426 300:-24.722426 350:-24.722426 400:-24.722426 450:-24.722426 BEST[15]=      -24.7224257106
+generation= 15
+program:
+(2.60)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.32))
+fitness= 24.72242571
+test error=248.5053969
+class test error=0.00%
+0:-24.722426 50:-24.722426 100:-24.722426 150:-24.722426 200:-24.722426 250:-24.722426 300:-24.530637 350:-24.530637 400:-24.530637 450:-24.530637 BEST[16]=      -24.7224257106
+generation= 16
+program:
+(2.60)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.32))
+fitness= 24.72242571
+test error=248.5053969
+class test error=0.00%
+0:-24.530637 50:-24.530637 100:-24.530637 150:-24.530637 200:-23.838827 250:-23.838827 300:-23.838827 350:-23.688881 400:-23.688881 450:-23.688881 BEST[17]=      -24.5306371092
+generation= 17
+program:
+(2.60)*sig((-4.6)*x1+(03.4)*x1+(-1.2)*x1+(3.3282))
+fitness= 24.53063711
+test error=244.6309221
+class test error=0.00%
+0:-23.688881 50:-22.920832 100:-22.920832 150:-22.920832 200:-22.920832 250:-22.920832 300:-22.920832 350:-22.920832 400:-22.920832 450:-22.308788 BEST[18]=      -23.6888810587
+generation= 18
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.1)*x1+(3.3))
+fitness= 23.68888106
+test error=182.3952605
+class test error=0.00%
+0:-22.308788 50:-22.308788 100:-22.308788 150:-22.308788 200:-22.308788 250:-22.308788 300:-21.124384 350:-21.124384 400:-21.124384 450:-21.124384 BEST[19]=      -22.3087883791
+generation= 19
+program:
+(2.60)*sig((-4.6)*x1+(03.4)*x1+(-1.1)*x1+(3.3))
+fitness= 22.30878838
+test error=188.0223027
+class test error=0.00%
+0:-21.124384 50:-21.124384 100:-21.124384 150:-21.124384 200:-21.124384 250:-21.124384 300:-21.124384 350:-21.124384 400:-21.124384 450:-21.124384 BEST[20]=      -21.1243843173
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.38 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.46 VIOLATION = 0.00%
+19.427540 trial fitness[420]=19.4275404636
+FMIN[   1]=                 nan ORIG=70.47 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=29.50 VIOLATION = 100.00%
+FMIN[   1]=         19.42754046 ORIG=3.33 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[39]=19.4275404636
+FMIN[   1]=                 nan ORIG=3.22 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=5.65 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=43.09 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.46 VIOLATION = 0.00%
+19.427540 trial fitness[146]=19.4275404636
+FMIN[   1]=                 nan ORIG=582.01 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.33 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[423]=19.4275404636
+FMIN[   1]=                 nan ORIG=285.09 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=6.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=34.60 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=82.39 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.46 VIOLATION = 0.00%
+0.139492 trial fitness[463]=0.1394923533
+FMIN[   1]=                 nan ORIG=70.47 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.62 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=43.32 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=628.57 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=43.32 VIOLATION = 100.00%
+FMIN[   1]=         19.42754046 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.46 VIOLATION = 0.00%
+19.427540 trial fitness[371]=19.4275404636
+FMIN[   1]=                 nan ORIG=88.30 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.70 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.90 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=44.40 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.46 VIOLATION = 0.00%
+0.139492 trial fitness[65]=0.1394923533
+FMIN[   1]=                 nan ORIG=4.50 VIOLATION = 47.52%
+FMIN[   1]=         19.42754046 ORIG=3.32 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[122]=19.4275404636
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.32 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[365]=19.4275404636
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 inf ORIG=469.50 VIOLATION = 100.00%
+inf FMIN[   1]=         243.1850411 ORIG=81246.12 VIOLATION = 100.00%
+243.185041 trial fitness[315]=243.1850410959
+FMIN[   1]=                 nan ORIG=9.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=39887.88 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=7.62 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=242.08 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=6.90 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=6.90 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=8.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=332.41 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=12.63 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[463]=0.1394923533
+FMIN[   1]=                 nan ORIG=773.48 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=4.30 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.32 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[186]=19.4275404636
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.46 VIOLATION = 0.00%
+19.427540 trial fitness[360]=19.4275404636
+FMIN[   1]=                 nan ORIG=43.32 VIOLATION = 100.00%
+FMIN[   1]=         19.42754046 ORIG=3.32 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[92]=19.4275404636
+FMIN[   1]=                 nan ORIG=79.60 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=6.90 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.38 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.55 VIOLATION = 0.00%
+19.427540 trial fitness[13]=19.4275404636
+FMIN[   1]=                 nan ORIG=242.08 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.83 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.60 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.30 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.46 VIOLATION = 0.00%
+0.139492 trial fitness[4]=0.1394923533
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=64923.47 VIOLATION = 100.00%
+FMIN[   1]=         19.42754046 ORIG=2.80 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=2.94 VIOLATION = 0.00%
+19.427540 trial fitness[13]=19.4275404636
+FMIN[   1]=                 nan ORIG=9.90 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=39887.88 VIOLATION = 100.00%
+FMIN[   1]=         19.42754046 ORIG=2.80 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=2.94 VIOLATION = 0.00%
+19.427540 trial fitness[371]=19.4275404636
+FMIN[   1]=                 nan ORIG=996733285.90 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=43.33 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=7309.20 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.32 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=10.17 VIOLATION = 68.32%
+FMIN[   1]=                 nan ORIG=3.33 VIOLATION = 0.00%
+FMIN[   1]=         19.42754046 ORIG=3.32 VIOLATION = 0.00%
+FMIN[   2]=         19.42754046 ORIG=3.49 VIOLATION = 0.00%
+19.427540 trial fitness[127]=19.4275404636
+generation= 20
+program:
+(2.62)*sig((-4.6)*x1+(03.4)*x1+(-1.1)*x1+(3.22))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[21]=       -0.1394923588
+generation= 21
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[22]=       -0.1394923588
+generation= 22
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[23]=       -0.1394923588
+generation= 23
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[24]=       -0.1394923588
+generation= 24
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[25]=       -0.1394923588
+generation= 25
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[26]=       -0.1394923588
+generation= 26
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[27]=       -0.1394923588
+generation= 27
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[28]=       -0.1394923588
+generation= 28
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[29]=       -0.1394923588
+generation= 29
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[30]=       -0.1394923588
+generation= 30
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[31]=       -0.1394923588
+generation= 31
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[32]=       -0.1394923588
+generation= 32
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[33]=       -0.1394923588
+generation= 33
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[34]=       -0.1394923588
+generation= 34
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[35]=       -0.1394923588
+generation= 35
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[36]=       -0.1394923588
+generation= 36
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[37]=       -0.1394923588
+generation= 37
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[38]=       -0.1394923588
+generation= 38
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[39]=       -0.1394923588
+generation= 39
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[40]=       -0.1394923588
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[0]=0.1394923533
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.04 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[157]=0.1394923533
+FMIN[   1]=          245.184893 ORIG=1.89 VIOLATION = 0.00%
+FMIN[   2]=          245.184893 ORIG=1.98 VIOLATION = 0.00%
+245.184893 trial fitness[28]=245.1848929769
+FMIN[   1]=        0.1435974622 ORIG=3.23 VIOLATION = 0.00%
+FMIN[   2]=        0.1435974622 ORIG=3.39 VIOLATION = 0.00%
+0.143597 trial fitness[221]=0.1435974622
+FMIN[   1]=                 nan ORIG=3.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=76.48 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=461.10 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[396]=0.1394923533
+FMIN[   1]=                 nan ORIG=648.70 VIOLATION = 0.00%
+FMIN[   1]=         161.0260703 ORIG=2.24 VIOLATION = 0.00%
+FMIN[   2]=         132.1527416 ORIG=2.35 VIOLATION = 0.00%
+FMIN[   3]=         81.07240554 ORIG=2.47 VIOLATION = 0.00%
+FMIN[   4]=         45.65951026 ORIG=2.59 VIOLATION = 0.00%
+FMIN[   5]=         23.30768432 ORIG=2.72 VIOLATION = 0.00%
+FMIN[   6]=         11.92071445 ORIG=2.86 VIOLATION = 0.00%
+FMIN[   7]=         4.387683896 ORIG=3.00 VIOLATION = 0.00%
+FMIN[   8]=         1.746018515 ORIG=3.15 VIOLATION = 0.00%
+FMIN[   9]=        0.1576629126 ORIG=3.31 VIOLATION = 0.00%
+FMIN[  10]=        0.1478198722 ORIG=3.47 VIOLATION = 0.00%
+FMIN[  11]=        0.1478198722 ORIG=3.65 VIOLATION = 0.00%
+0.147820 trial fitness[364]=0.1478198722
+FMIN[   1]=                 inf ORIG=88822.00 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=3.64 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=323952.00 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[25]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[209]=0.1394923533
+FMIN[   1]=                 nan ORIG=240.04 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=4.23 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=79430.20 VIOLATION = 100.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[481]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[127]=0.1394923533
+FMIN[   1]=                 nan ORIG=8864511.61 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=451.89 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[218]=0.1394923533
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[46]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[204]=0.1394923533
+FMIN[   1]=                 nan ORIG=14.08 VIOLATION = 100.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[68]=0.1394923533
+FMIN[   1]=                 nan ORIG=5.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=52004.20 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[225]=0.1394923533
+FMIN[   1]=        0.1417520543 ORIG=3.23 VIOLATION = 0.00%
+FMIN[   2]=        0.1417520543 ORIG=3.40 VIOLATION = 0.00%
+0.141752 trial fitness[126]=0.1417520543
+FMIN[   1]=                 inf ORIG=958.11 VIOLATION = 100.00%
+inf FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[464]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[168]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[421]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[361]=0.1394923533
+generation= 40
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[41]=       -0.1394923588
+generation= 41
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[42]=       -0.1394923588
+generation= 42
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[43]=       -0.1394923588
+generation= 43
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[44]=       -0.1394923588
+generation= 44
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[45]=       -0.1394923588
+generation= 45
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[46]=       -0.1394923588
+generation= 46
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[47]=       -0.1394923588
+generation= 47
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139492 50:-0.139492 100:-0.139492 150:-0.139492 200:-0.139492 250:-0.139492 300:-0.139492 350:-0.139492 400:-0.139492 450:-0.139492 BEST[48]=       -0.1394923588
+generation= 48
+program:
+(3.23952)*sig((1.88645)*x1+(-1.61043))
+fitness= 0.1394923533
+test error=1.322111754
+class test error=0.00%
+0:-0.139437 50:-0.139437 100:-0.139437 150:-0.139437 200:-0.139437 250:-0.139437 300:-0.139437 350:-0.139437 400:-0.139437 450:-0.139437 BEST[49]=       -0.1394370287
+generation= 49
+program:
+(3.23952)*sig((1.88648)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.0))
+fitness= 0.1394370287
+test error=1.305583897
+class test error=0.00%
+0:-0.139437 50:-0.139437 100:-0.139437 150:-0.139437 200:-0.139437 250:-0.139437 300:-0.139437 350:-0.139437 400:-0.139437 450:-0.139437 BEST[50]=       -0.1394370287
+generation= 50
+program:
+(3.23952)*sig((1.88648)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.0))
+fitness= 0.1394370287
+test error=1.305583897
+class test error=0.00%
+0:-0.139437 50:-0.139437 100:-0.139437 150:-0.139437 200:-0.139437 250:-0.139436 300:-0.139436 350:-0.139436 400:-0.139436 450:-0.139436 BEST[51]=       -0.1394370287
+generation= 51
+program:
+(3.23952)*sig((1.88648)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.0))
+fitness= 0.1394370287
+test error=1.305583897
+class test error=0.00%
+0:-0.138820 50:-0.138820 100:-0.138820 150:-0.138820 200:-0.138820 250:-0.138820 300:-0.138820 350:-0.138416 400:-0.138416 450:-0.138416 BEST[52]=       -0.1388200684
+generation= 52
+program:
+(3.23952)*sig((1.88648)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.5))
+fitness= 0.1388200684
+test error=1.308059422
+class test error=0.00%
+0:-0.138416 50:-0.138416 100:-0.138416 150:-0.138416 200:-0.138416 250:-0.138416 300:-0.138416 350:-0.138416 400:-0.138416 450:-0.138416 BEST[53]=       -0.1384162191
+generation= 53
+program:
+(3.23952)*sig((1.88548)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.0))
+fitness= 0.1384162191
+test error=1.309593298
+class test error=0.00%
+0:-0.138416 50:-0.138416 100:-0.138416 150:-0.138416 200:-0.138416 250:-0.138416 300:-0.138416 350:-0.138416 400:-0.138354 450:-0.138354 BEST[54]=       -0.1384162191
+generation= 54
+program:
+(3.23952)*sig((1.88548)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.0))
+fitness= 0.1384162191
+test error=1.309593298
+class test error=0.00%
+0:-0.138354 50:-0.138354 100:-0.138354 150:-0.138354 200:-0.138147 250:-0.138147 300:-0.138147 350:-0.138147 400:-0.138147 450:-0.138147 BEST[55]=       -0.1383538205
+generation= 55
+program:
+(3.23952)*sig((1.88548)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.3))
+fitness= 0.1383538205
+test error=1.310849571
+class test error=0.00%
+0:-0.138147 50:-0.138147 100:-0.138147 150:-0.137871 200:-0.137871 250:-0.137871 300:-0.137871 350:-0.137871 400:-0.137871 450:-0.137871 BEST[56]=       -0.1381468708
+generation= 56
+program:
+(3.23752)*sig((1.88548)*x1+(-1.61043))+(3.0)*sig((1.0)*x1+(-9.0))
+fitness= 0.1381468708
+test error=1.305218399
+class test error=0.00%
+0:-0.137871 50:-0.137871 100:-0.137871 150:-0.137871 200:-0.137871 250:-0.137871 300:-0.137871 350:-0.137871 400:-0.137871 450:-0.137871 BEST[57]=       -0.1378714386
+generation= 57
+program:
+(3.23952)*sig((1.88548)*x1+(-1.61043))+(3.0)*sig((1.2)*x1+(-9.3))
+fitness= 0.1378714386
+test error=1.305371593
+class test error=0.00%
+0:-0.137871 50:-0.137871 100:-0.137871 150:-0.137871 200:-0.137851 250:-0.137851 300:-0.137851 350:-0.137851 400:-0.137851 450:-0.137851 BEST[58]=       -0.1378714386
+generation= 58
+program:
+(3.23952)*sig((1.88548)*x1+(-1.61043))+(3.0)*sig((1.2)*x1+(-9.3))
+fitness= 0.1378714386
+test error=1.305371593
+class test error=0.00%
+0:-0.136396 50:-0.136396 100:-0.136396 150:-0.136396 200:-0.135963 250:-0.135963 300:-0.135963 350:-0.121554 400:-0.121554 450:-0.121554 BEST[59]=       -0.1363959902
+generation= 59
+program:
+(3.23653)*sig((1.88648)*x1+(-1.61043))+(8.8)*sig((1.0)*x1+(-9.5))
+fitness= 0.1363959902
+test error=1.290551109
+class test error=0.00%
+0:-0.121554 50:-0.121554 100:-0.121554 150:-0.121554 200:-0.121554 250:-0.121554 300:-0.121554 350:-0.121554 400:-0.121554 450:-0.121554 BEST[60]=       -0.1215544514
+FMIN[   1]=                 nan ORIG=43.00 VIOLATION = 0.00%
+FMIN[   1]=                 inf ORIG=61044230.00 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=6727.13 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=47.98 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=90.88 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.23 VIOLATION = 0.00%
+FMIN[   1]=                 inf ORIG=939.73 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=41.20 VIOLATION = 77.23%
+FMIN[   1]=                 nan ORIG=383.60 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=54135.31 VIOLATION = 33.33%
+FMIN[   1]=                 nan ORIG=13.38 VIOLATION = 100.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.00 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.45 VIOLATION = 0.00%
+0.000075 trial fitness[424]=0.0000751400
+FMIN[   1]=                 nan ORIG=11.70 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=383.60 VIOLATION = 100.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[491]=0.1394923533
+FMIN[   1]=                 inf ORIG=61044230.00 VIOLATION = 100.00%
+inf FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[69]=0.1394923533
+FMIN[   1]=                 nan ORIG=8.80 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=7.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=31.26 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=39.50 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=47.29 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=59.99 VIOLATION = 53.47%
+FMIN[   1]=                 nan ORIG=10430.31 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3431.52 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=10.50 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=82323.20 VIOLATION = 66.67%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[407]=0.1394923533
+FMIN[   1]=                 nan ORIG=947.09 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=69241.00 VIOLATION = 46.20%
+FMIN[   1]=                 nan ORIG=3.34 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=6043.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=946.49 VIOLATION = 50.00%
+FMIN[   1]=                 inf ORIG=8646.70 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=91.90 VIOLATION = 64.36%
+FMIN[   1]=       0.01042877677 ORIG=59.00 VIOLATION = 50.00%
+FMIN[   2]=       0.01042877677 ORIG=61.95 VIOLATION = 50.00%
+0.010429 trial fitness[377]=0.0104287768
+FMIN[   1]=                 nan ORIG=61043.00 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=188548.10 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=323952.00 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=9.50 VIOLATION = 45.21%
+FMIN[   1]=                 nan ORIG=9.00 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.00 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.45 VIOLATION = 0.00%
+0.000075 trial fitness[302]=0.0000751400
+FMIN[   1]=                 nan ORIG=570.47 VIOLATION = 66.67%
+FMIN[   1]=        0.1395561412 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1395561412 ORIG=3.40 VIOLATION = 0.00%
+0.139556 trial fitness[152]=0.1395561412
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[145]=0.1394923533
+FMIN[   1]=                 nan ORIG=8.80 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=8.80 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=3.80 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.99 VIOLATION = 0.00%
+0.000075 trial fitness[367]=0.0000751400
+FMIN[   1]=                 nan ORIG=1843.00 VIOLATION = 0.00%
+FMIN[   1]=        0.4614342066 ORIG=506.90 VIOLATION = 62.05%
+0.461434 trial fitness[83]=0.4614342066
+FMIN[   1]=                 nan ORIG=88548.10 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=6026.31 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=30.00 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.50 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.97 VIOLATION = 0.00%
+0.000075 trial fitness[52]=0.0000751400
+FMIN[   1]=     7.513995451e-05 ORIG=9.30 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.77 VIOLATION = 0.00%
+0.000075 trial fitness[187]=0.0000751400
+FMIN[   1]=         44.54704246 ORIG=746.79 VIOLATION = 50.00%
+FMIN[   2]=         44.54704246 ORIG=784.13 VIOLATION = 50.00%
+44.547042 trial fitness[204]=44.5470424604
+FMIN[   1]=                 nan ORIG=95.00 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.40 VIOLATION = 0.00%
+0.000075 trial fitness[391]=0.0000751400
+FMIN[   1]=                 nan ORIG=9.00 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.00 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.45 VIOLATION = 0.00%
+0.000075 trial fitness[327]=0.0000751400
+FMIN[   1]=                 nan ORIG=1041.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=6.16 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.00 VIOLATION = 0.00%
+FMIN[   1]=                 inf ORIG=323353.00 VIOLATION = 50.00%
+FMIN[   2]=                 inf ORIG=339520.65 VIOLATION = 50.00%
+inf FMIN[   1]=                 nan ORIG=648.10 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=463.59 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=43.00 VIOLATION = 17.16%
+FMIN[   1]=                 inf ORIG=16104363.80 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=43.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=903.10 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.00 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.45 VIOLATION = 0.00%
+0.000075 trial fitness[267]=0.0000751400
+FMIN[   1]=                 nan ORIG=8.80 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.00 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.45 VIOLATION = 0.00%
+0.000075 trial fitness[400]=0.0000751400
+FMIN[   1]=                 nan ORIG=9.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=68755.21 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.27 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=42.51 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.61 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=92.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=71.61 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=9.00 VIOLATION = 0.00%
+FMIN[   1]=                 inf ORIG=775407.86 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=61049.00 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=68755.21 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=61043.00 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=90.70 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=70.00 VIOLATION = 100.00%
+FMIN[   1]=        0.1395025482 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1395025482 ORIG=3.40 VIOLATION = 0.00%
+0.139503 trial fitness[87]=0.1395025482
+FMIN[   1]=                 nan ORIG=5.90 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=611857.71 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=8.81 VIOLATION = 0.00%
+FMIN[   1]=       0.09378882127 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=       0.09378882127 ORIG=3.40 VIOLATION = 0.00%
+0.093789 trial fitness[31]=0.0937888213
+generation= 60
+program:
+(3.23953)*sig((1.88628)*x1+(-1.6))+(-043.0)*sig((-9.0)*x1+(-0.5))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[61]=       -0.0000751425
+generation= 61
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[62]=       -0.0000751425
+generation= 62
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[63]=       -0.0000751425
+generation= 63
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[64]=       -0.0000751425
+generation= 64
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[65]=       -0.0000751425
+generation= 65
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[66]=       -0.0000751425
+generation= 66
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[67]=       -0.0000751425
+generation= 67
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[68]=       -0.0000751425
+generation= 68
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[69]=       -0.0000751425
+generation= 69
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[70]=       -0.0000751425
+generation= 70
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[71]=       -0.0000751425
+generation= 71
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[72]=       -0.0000751425
+generation= 72
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[73]=       -0.0000751425
+generation= 73
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[74]=       -0.0000751425
+generation= 74
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[75]=       -0.0000751425
+generation= 75
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[76]=       -0.0000751425
+generation= 76
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[77]=       -0.0000751425
+generation= 77
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[78]=       -0.0000751425
+generation= 78
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[79]=       -0.0000751425
+generation= 79
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[80]=       -0.0000751425
+FMIN[   1]=     7.513995451e-05 ORIG=2.91 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.05 VIOLATION = 0.00%
+0.000075 trial fitness[0]=0.0000751400
+FMIN[   1]=                 nan ORIG=9.08 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=706800.70 VIOLATION = 0.00%
+FMIN[   1]=        0.1400636271 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1400636271 ORIG=3.40 VIOLATION = 0.00%
+0.140064 trial fitness[186]=0.1400636271
+FMIN[   1]=                 nan ORIG=9.97 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=439414.20 VIOLATION = 86.63%
+FMIN[   1]=                 nan ORIG=88643.10 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.97 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=7180.01 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=46598.00 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=2.91 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.05 VIOLATION = 0.00%
+0.000075 trial fitness[330]=0.0000751400
+FMIN[   1]=                 nan ORIG=32.60 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=1048.00 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.00 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.45 VIOLATION = 0.00%
+0.000075 trial fitness[39]=0.0000751400
+FMIN[   1]=         243.1850486 ORIG=55397.00 VIOLATION = 100.00%
+243.185049 trial fitness[280]=243.1850485664
+FMIN[   1]=                 nan ORIG=4638.20 VIOLATION = 66.67%
+FMIN[   1]=                 nan ORIG=9.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=1111000.11 VIOLATION = 50.00%
+FMIN[   1]=        0.1400636271 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1400636271 ORIG=3.40 VIOLATION = 0.00%
+0.140064 trial fitness[237]=0.1400636271
+FMIN[   1]=                 nan ORIG=9.07 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=61748.00 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=61098.03 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=90756.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=95.14 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=732.29 VIOLATION = 0.00%
+FMIN[   1]=          10.5778996 ORIG=2.88 VIOLATION = 0.00%
+FMIN[   2]=          8.71014218 ORIG=3.02 VIOLATION = 0.00%
+FMIN[   3]=        0.4367915483 ORIG=3.17 VIOLATION = 0.00%
+FMIN[   4]=        0.1395079401 ORIG=3.33 VIOLATION = 0.00%
+FMIN[   5]=        0.1394999894 ORIG=3.50 VIOLATION = 0.00%
+FMIN[   6]=        0.1394999894 ORIG=3.67 VIOLATION = 0.00%
+0.139500 trial fitness[149]=0.1394999894
+FMIN[   1]=                 nan ORIG=9.21 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=21.37 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=500700.00 VIOLATION = 75.74%
+FMIN[   1]=                 nan ORIG=15.29 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=99.74 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.50 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.97 VIOLATION = 0.00%
+0.000075 trial fitness[157]=0.0000751400
+FMIN[   1]=                 nan ORIG=46548.00 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=4627.10 VIOLATION = 50.00%
+FMIN[   2]=        0.1394923533 ORIG=4858.46 VIOLATION = 50.00%
+0.139492 trial fitness[252]=0.1394923533
+FMIN[   1]=                 nan ORIG=1111582.80 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.50 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=747.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=77.40 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=1219.84 VIOLATION = 69.80%
+FMIN[   1]=                 inf ORIG=55399.00 VIOLATION = 100.00%
+inf FMIN[   1]=     7.513995451e-05 ORIG=9.50 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.97 VIOLATION = 0.00%
+0.000075 trial fitness[464]=0.0000751400
+FMIN[   1]=                 nan ORIG=17.67 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.06 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.52 VIOLATION = 0.00%
+0.000075 trial fitness[310]=0.0000751400
+FMIN[   1]=                 nan ORIG=65633.00 VIOLATION = 100.00%
+FMIN[   1]=        0.1394923533 ORIG=4627.10 VIOLATION = 50.00%
+FMIN[   2]=        0.1394923533 ORIG=4858.46 VIOLATION = 50.00%
+0.139492 trial fitness[252]=0.1394923533
+FMIN[   1]=                 nan ORIG=161048.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=61098.03 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=864.30 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=2.91 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.05 VIOLATION = 0.00%
+0.000075 trial fitness[421]=0.0000751400
+FMIN[   1]=        0.1400636271 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1400636271 ORIG=3.40 VIOLATION = 0.00%
+0.140064 trial fitness[129]=0.1400636271
+FMIN[   1]=        0.1400636271 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1400636271 ORIG=3.40 VIOLATION = 0.00%
+0.140064 trial fitness[406]=0.1400636271
+FMIN[   1]=                 nan ORIG=4490.30 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=5.42 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=42313.70 VIOLATION = 69.80%
+FMIN[   1]=                 nan ORIG=594604.12 VIOLATION = 0.00%
+FMIN[   1]=      0.001264806952 ORIG=2.71 VIOLATION = 0.00%
+FMIN[   2]=      0.001264806952 ORIG=2.84 VIOLATION = 0.00%
+0.001265 trial fitness[434]=0.0012648070
+FMIN[   1]=                 nan ORIG=2666.64 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=742188548.20 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=80212.70 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.34 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=88547.40 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=318.60 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=57.19 VIOLATION = 32.01%
+FMIN[   1]=     7.513995451e-05 ORIG=2.91 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.05 VIOLATION = 0.00%
+0.000075 trial fitness[61]=0.0000751400
+FMIN[   1]=                 nan ORIG=18.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=1049.00 VIOLATION = 66.67%
+FMIN[   1]=     7.513995451e-05 ORIG=9.02 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.47 VIOLATION = 0.00%
+0.000075 trial fitness[385]=0.0000751400
+FMIN[   1]=        0.1394923533 ORIG=95.10 VIOLATION = 50.00%
+FMIN[   2]=        0.1394923533 ORIG=99.86 VIOLATION = 50.00%
+0.139492 trial fitness[497]=0.1394923533
+FMIN[   1]=                 nan ORIG=401.20 VIOLATION = 100.00%
+FMIN[   1]=      0.002507858114 ORIG=4.20 VIOLATION = 0.00%
+FMIN[   2]=      0.002507708694 ORIG=4.41 VIOLATION = 0.00%
+FMIN[   3]=      0.002507650797 ORIG=4.63 VIOLATION = 0.00%
+0.002508 trial fitness[268]=0.0025076508
+generation= 80
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[81]=       -0.0000751425
+generation= 81
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[82]=       -0.0000751425
+generation= 82
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[83]=       -0.0000751425
+generation= 83
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[84]=       -0.0000751425
+generation= 84
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[85]=       -0.0000751425
+generation= 85
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[86]=       -0.0000751425
+generation= 86
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[87]=       -0.0000751425
+generation= 87
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[88]=       -0.0000751425
+generation= 88
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[89]=       -0.0000751425
+generation= 89
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[90]=       -0.0000751425
+generation= 90
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[91]=       -0.0000751425
+generation= 91
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[92]=       -0.0000751425
+generation= 92
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[93]=       -0.0000751425
+generation= 93
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[94]=       -0.0000751425
+generation= 94
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[95]=       -0.0000751425
+generation= 95
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[96]=       -0.0000751425
+generation= 96
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[97]=       -0.0000751425
+generation= 97
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[98]=       -0.0000751425
+generation= 98
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[99]=       -0.0000751425
+generation= 99
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[100]=       -0.0000751425
+FMIN[   1]=     7.513995451e-05 ORIG=2.91 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.05 VIOLATION = 0.00%
+0.000075 trial fitness[0]=0.0000751400
+FMIN[   1]=         243.1850411 ORIG=131.20 VIOLATION = 100.00%
+243.185041 trial fitness[487]=243.1850410959
+FMIN[   1]=                 nan ORIG=3.90 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=35.61 VIOLATION = 93.56%
+FMIN[   1]=                 nan ORIG=61795.00 VIOLATION = 0.00%
+FMIN[   1]=         243.1850411 ORIG=145.97 VIOLATION = 100.00%
+243.185041 trial fitness[444]=243.1850410959
+FMIN[   1]=        0.1394923533 ORIG=53.71 VIOLATION = 50.00%
+FMIN[   2]=        0.1394923533 ORIG=56.39 VIOLATION = 50.00%
+0.139492 trial fitness[336]=0.1394923533
+FMIN[   1]=                 nan ORIG=886701.10 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=70610.00 VIOLATION = 0.00%
+FMIN[   1]=        0.1409605135 ORIG=3.23 VIOLATION = 0.00%
+FMIN[   2]=        0.1409605135 ORIG=3.40 VIOLATION = 0.00%
+0.140961 trial fitness[431]=0.1409605135
+FMIN[   1]=                 nan ORIG=845271.55 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=2.90 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.50 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.97 VIOLATION = 0.00%
+0.000075 trial fitness[210]=0.0000751400
+FMIN[   1]=                 nan ORIG=580.89 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.26 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=9.54 VIOLATION = 0.00%
+FMIN[   1]=         243.1850411 ORIG=2808711.10 VIOLATION = 100.00%
+243.185041 trial fitness[424]=243.1850410959
+FMIN[   1]=                 nan ORIG=365666.46 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[106]=0.1394923533
+FMIN[   1]=        0.1394923533 ORIG=144090288790.00 VIOLATION = 66.67%
+0.139492 trial fitness[495]=0.1394923533
+FMIN[   1]=                 nan ORIG=851.91 VIOLATION = 0.00%
+FMIN[   1]=       0.00119721389 ORIG=7.60 VIOLATION = 0.00%
+FMIN[   2]=      0.001197196545 ORIG=7.98 VIOLATION = 0.00%
+0.001197 trial fitness[277]=0.0011971965
+FMIN[   1]=                 nan ORIG=323654.20 VIOLATION = 100.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[410]=0.1394923533
+FMIN[   1]=                 nan ORIG=653.10 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=845271.59 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=323654.10 VIOLATION = 0.00%
+FMIN[   1]=                 inf ORIG=323953.00 VIOLATION = 100.00%
+inf FMIN[   1]=                 nan ORIG=3.64 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.84 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=323654.10 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=7.70 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=902072.60 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=653.11 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[377]=0.1394923533
+FMIN[   1]=                 nan ORIG=61098.00 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=5.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=61014.00 VIOLATION = 50.00%
+FMIN[   1]=                 nan ORIG=94.34 VIOLATION = 100.00%
+FMIN[   1]=         19.42754046 ORIG=200.00 VIOLATION = 50.00%
+FMIN[   2]=         19.42754046 ORIG=210.00 VIOLATION = 50.00%
+19.427540 trial fitness[494]=19.4275404636
+FMIN[   1]=                 nan ORIG=9.02 VIOLATION = 0.00%
+FMIN[   1]=        0.1394977094 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394977094 ORIG=3.40 VIOLATION = 0.00%
+0.139498 trial fitness[245]=0.1394977094
+FMIN[   1]=                 nan ORIG=35.61 VIOLATION = 93.56%
+FMIN[   1]=                 nan ORIG=55397.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=1018001.10 VIOLATION = 0.00%
+FMIN[   1]=     7.513995451e-05 ORIG=9.02 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=9.47 VIOLATION = 0.00%
+0.000075 trial fitness[266]=0.0000751400
+FMIN[   1]=                 nan ORIG=3.24 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=51174.00 VIOLATION = 36.14%
+FMIN[   1]=                 nan ORIG=82431.44 VIOLATION = 92.82%
+FMIN[   1]=     7.513995451e-05 ORIG=2.94 VIOLATION = 0.00%
+FMIN[   2]=     7.513995451e-05 ORIG=3.08 VIOLATION = 0.00%
+0.000075 trial fitness[375]=0.0000751400
+FMIN[   1]=        0.1394923533 ORIG=6657.12 VIOLATION = 50.00%
+FMIN[   2]=        0.1394923533 ORIG=6989.98 VIOLATION = 50.00%
+0.139492 trial fitness[192]=0.1394923533
+FMIN[   1]=                 nan ORIG=946092.00 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=66.03 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=5.54 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=67442.71 VIOLATION = 50.00%
+FMIN[   2]=        0.1394923533 ORIG=70814.85 VIOLATION = 50.00%
+0.139492 trial fitness[68]=0.1394923533
+FMIN[   1]=                 nan ORIG=53707.00 VIOLATION = 100.00%
+FMIN[   1]=                 nan ORIG=902072.60 VIOLATION = 0.00%
+FMIN[   1]=        0.1394923533 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1394923533 ORIG=3.40 VIOLATION = 0.00%
+0.139492 trial fitness[182]=0.1394923533
+FMIN[   1]=                 nan ORIG=3672.90 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=240701.00 VIOLATION = 86.14%
+FMIN[   1]=                 nan ORIG=6.60 VIOLATION = 0.00%
+FMIN[   1]=                 nan ORIG=18.31 VIOLATION = 0.00%
+FMIN[   1]=        0.1395020445 ORIG=3.24 VIOLATION = 0.00%
+FMIN[   2]=        0.1395020445 ORIG=3.40 VIOLATION = 0.00%
+0.139502 trial fitness[122]=0.1395020445
+generation= 100
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[101]=       -0.0000751425
+generation= 101
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[102]=       -0.0000751425
+generation= 102
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[103]=       -0.0000751425
+generation= 103
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[104]=       -0.0000751425
+generation= 104
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.90756))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[105]=       -0.0000751418
+generation= 105
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[106]=       -0.0000751418
+generation= 106
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[107]=       -0.0000751418
+generation= 107
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[108]=       -0.0000751418
+generation= 108
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[109]=       -0.0000751418
+generation= 109
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[110]=       -0.0000751418
+generation= 110
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[111]=       -0.0000751418
+generation= 111
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[112]=       -0.0000751418
+generation= 112
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[113]=       -0.0000751418
+generation= 113
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[114]=       -0.0000751418
+generation= 114
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[115]=       -0.0000751418
+generation= 115
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 50:-0.000075 100:-0.000075 150:-0.000075 200:-0.000075 250:-0.000075 300:-0.000075 350:-0.000075 400:-0.000075 450:-0.000075 BEST[116]=       -0.0000751418
+generation= 116
+program:
+(1.76675)*sig((2.80881)*x1+(-1.55397))+(1.46592)*sig((2.14627)*x1+(-2.907561))
+fitness= 7.513995451e-05
+test error=0.0007517046338
+class test error=0.00%
+0:-0.000075 

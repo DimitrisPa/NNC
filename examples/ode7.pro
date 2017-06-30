@@ -1,0 +1,2 @@
+TEMPLATE =lib
+SOURCES =ode7.cc
