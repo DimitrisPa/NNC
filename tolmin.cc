@@ -2,7 +2,6 @@
 # include <stdlib.h>
 # include <math.h>
 # include <tolmin.h>
-# include <f2c.h>
 
 static long iabs(long x)
 {
