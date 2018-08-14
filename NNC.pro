@@ -26,7 +26,8 @@ SOURCES += main.cpp \
     cprogram.cc \
     converter.cc \
     pdeneuralprogram.cc \
-    sodeneuralprogram.cc
+    sodeneuralprogram.cc \
+    kdvneuralprogram.cpp
 
 # The following define makes your compiler emit warnings if you use
 # any feature of Qt which as been marked deprecated (the exact warnings
@@ -56,4 +57,5 @@ HEADERS += \
     cprogram.h \
     converter.h \
     pdeneuralprogram.h \
-    sodeneuralprogram.h
+    sodeneuralprogram.h \
+    kdvneuralprogram.h
