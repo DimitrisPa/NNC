@@ -105,12 +105,18 @@ void	NNCNeuralProgram::getDeriv(Data &g)
 double	NNCNeuralProgram::getTestError()
 {
 	double value=0.0;
+    double *xx=new double[dimension];
 
 	for(int i=0;i<test_ypoint.size();i++)
 	{
-		double v=neuralparser->eval(test_xpoint[i])-test_ypoint[i];
+        	for(int j=0;j<dimension;j++) xx[j]=test_xpoint[i][j];
+		if(program!=NULL)
+		{
+        	double v=neuralparser->eval(xx)-test_ypoint[i];
 		value=value+v*v;
+		}
 	}
+	delete[] xx;
 	return value;
 }
 
@@ -196,7 +202,7 @@ void     NNCNeuralProgram::printOutput(QString filename)
     double *xx=new double[train_xpoint[0].size()];
     for(int i=0;i<test_ypoint.size();i++)
     {
-        for(int j=0;j<dimension;j++) st<<train_xpoint[i][j]<<" ";
+        for(int j=0;j<dimension;j++) st<<test_xpoint[i][j]<<" ";
         for(int j=0;j<test_xpoint[i].size();j++) xx[j]=test_xpoint[i][j];
         double v=program->Eval(xx);
         st<<test_ypoint[i]<<" "<<v<<endl;

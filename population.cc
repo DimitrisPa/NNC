@@ -2,8 +2,8 @@
 # include <math.h>
 # include <iostream>
 
-# define MAX_RULE	65536
-//# define MAX_RULE	256
+//# define MAX_RULE	65536
+# define MAX_RULE	256
 
 
 /* Population constructor */
@@ -46,6 +46,7 @@ void	Population::reset()
 /* Return the fitness of a genome */
 double 	Population::fitness(vector<int> &g)
 {
+
 	double f=program->fitness(g);
 	return f;
 }
@@ -197,8 +198,8 @@ void	Population::nextGeneration()
 	mutate();
 	calcFitnessArray();
     extern int localSearchGenerations,localSearchChromosomes;
-    if((generation+1)%localSearchGenerations==0)
-        for(int i=0;i<localSearchChromosomes;i++)
+    if((generation+1)%100==0)
+        for(int i=0;i<20;i++)
 		localSearch(rand() % genome_count);
 	
 	++generation;
