@@ -210,6 +210,7 @@ FunctionParser::~FunctionParser()
     {
         delete data;
     }
+    if(tempDeriv.size()!=0) delete[] tempDoubleArray;
 }
 
 FunctionParser::FunctionParser(const FunctionParser& cpy):
@@ -1390,8 +1391,43 @@ DoubleStack evalStack;
 DoubleStack derivStack;
 DoubleStack derivStack2;	
 
-
 //end of addition from Ioannis G. Tsoulos
+
+double FunctionParser::Eval(std::vector<double> Vars)
+{
+    for(int i=0;i<tempDeriv.size();i++)
+        tempDoubleArray[i]=Vars[i];
+    return Eval(tempDeriv);
+}
+
+double FunctionParser::EvalDeriv3(const double *Vars, int pos)
+{
+
+    if(tempDeriv.size()==0)
+    {
+        tempDeriv.resize(data->ImmedSize);
+        tempDoubleArray=new double[tempDeriv.size()];
+    }
+     for(int i=0;i<(int)tempDeriv.size();i++)
+        tempDeriv[i]=Vars[i];
+    double g=0.0;
+    for(int i=0;i<(int)tempDeriv.size();i++)
+    {
+
+        double eps=pow(1e-18,1.0/3.0)*fmax(1.0,fabs(tempDeriv[i]));
+        if(i==pos)
+        {
+            tempDeriv[i]+=eps;
+            double v1=Eval(tempDeriv);
+            tempDeriv[i]-=2.0 *eps;
+            double v2=Eval(tempDeriv);
+            g=(v1-v2)/(2.0 * eps);
+            tempDeriv[i]+=eps;
+        }
+    }
+    return g;
+}
+
 
 double FunctionParser::EvalDeriv2(const double *Vars,int pos)
 {

@@ -35,9 +35,11 @@ public:
     inline ParseErrorType GetParseErrorType() const { return parseErrorType; }
 
     double Eval(const double* Vars);
+    double Eval(std::vector<double> Vars);
 //addition from Ioannis G. Tsoulos
     double EvalDeriv(const double *Vars,int pos);
     double EvalDeriv2(const double *Vars,int pos);
+    double EvalDeriv3(const double *Vars,int pos);
     double lastEval();
     double lastEvalDeriv();
 //end of addition from Ioannis G. Tsoulos
@@ -113,6 +115,7 @@ private:
         unsigned StackSize;
 
 
+
         Data();
         ~Data();
         Data(const Data&);
@@ -126,8 +129,8 @@ private:
     unsigned StackPtr;
     std::vector<unsigned>* tempByteCode;
     std::vector<double>* tempImmed;
-
-
+    std::vector<double> tempDeriv;
+  double *tempDoubleArray;
 // Private methods:
 // ---------------
     inline void copyOnWrite();
