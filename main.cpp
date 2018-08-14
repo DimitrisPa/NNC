@@ -7,6 +7,7 @@
 # include <odeneuralprogram.h>
 # include <pdeneuralprogram.h>
 # include <sodeneuralprogram.h>
+# include <kdvneuralprogram.h>
 # include <QFile>
 # include <QTextStream>
 # include <QIODevice>
@@ -45,6 +46,12 @@ void run()
         d=2;
         program=new PdeNeuralProgram(train_file);
     }
+    else
+    if(kind=="kdv")
+    {
+        d=2;
+        program=new KdvNeuralProgram(train_file);
+    }
 
     pop=new Population (genome_count,genome_length ,program);
     pop->setSelectionRate(selection_rate);
@@ -67,11 +74,13 @@ void run()
             if(fabs(f)<bestError)
             {
                 program->neuralparser->getWeights(bestWeights);
+
                 bestError=fabs(f);
                 old_test_error=program->getTestError();
 
             }
-            printf("BEST[%d]=%20.10lf Solution: y(x)=%s\n",i,f,str.c_str());
+	    printf("%d\t%lf\t%s\n",i,f,str.c_str());
+            //printf("BEST[%d]=%20.10lf Solution: y(x)=%s\n",i,f,str.c_str());
     //LOCALSEARCH
             if(i%localSearchGenerations==0)
             {

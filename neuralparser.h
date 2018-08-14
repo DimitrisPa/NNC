@@ -37,9 +37,11 @@ class NeuralParser
 		double	eval(double *xpoint);
 		double  evalDeriv(vector<double> xpoint,int pos);
 		double	evalDeriv2(vector<double> xpoint,int pos);
+        double  evalDeriv3(vector<double> xpoint,int pos);
 		void	getDeriv(vector<double> xpoint,vector<double> &g);
 		void	getXDeriv(vector<double> xpoint,int pos,vector<double> &g);
 		void	getX2Deriv(vector<double> xpoint,int pos,vector<double> &g);
+        void	getX3Deriv(vector<double> xpoint,int pos,vector<double> &g);
 		virtual double	valError();
 		void	getMargins(Data &l,Data &r);
 		string  print();

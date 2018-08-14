@@ -4,12 +4,6 @@
 # include <stdlib.h>
 # include <string.h>
 
-
-static double dmax(double a,double b)
-{
-	return a>b?a:b;
-}
-
 static double sig(double x)
 {
 	return 1.0/(1.0+exp(-x));
@@ -41,7 +35,7 @@ void	NeuralParser::makeVector(string str)
 {
 	node.resize(0);
 	int index=0;
-	while(index<str.size())
+    while(index<(int)str.size())
 	{
 		//format of node
 		//(out)*sig(multiplier-list+(bias))
@@ -175,6 +169,7 @@ double	NeuralParser::eval(vector<double> xpoint)
 			arg+=xpoint[j-1]*weight[pos-1];
 		}
 		arg+=weight[(dimension+2)*i-1];
+        if(fabs(arg)>50) return 1e+100;
 		per+=weight[(dimension+2)*i-(dimension+1)-1]*sig(arg);
 	}
 	return per;
@@ -192,6 +187,7 @@ double	NeuralParser::eval(double  *xpoint)
 			int pos=(dimension+2)*i-(dimension+1)+j;
 			arg+=xpoint[j-1]*weight[pos-1];
 		}
+      //  if(fabs(arg)>10) return 1e+100;
 		arg+=weight[(dimension+2)*i-1];
 		per+=weight[(dimension+2)*i-(dimension+1)-1]*sig(arg);
 	}
@@ -235,6 +231,7 @@ double  NeuralParser::evalDeriv(vector<double> xpoint,int pos)
 		{
 			int mypos=(dimension+2)*i-(dimension+1)+j;
 			arg+=xpoint[j-1]*weight[mypos-1];
+            if(fabs(weight[mypos-1])>100) return 1e+100;
 		}
 		arg+=weight[(dimension+2)*i-1];
 		double s=sig(arg);
@@ -295,6 +292,27 @@ double	NeuralParser::evalDeriv2(vector<double> xpoint,int pos)
 	return per;
 }
 
+double  NeuralParser::evalDeriv3(vector<double> xpoint,int pos)
+{
+    int nodes=weight.size()/ (dimension + 2);
+    double per=0.0;
+    for(int i=1;i<=nodes;i++)
+    {
+        double arg=0.0;
+        for(int j=1;j<=dimension;j++)
+        {
+            int mypos=(dimension+2)*i-(dimension+1)+j;
+            arg+=xpoint[j-1]*weight[mypos-1];
+        }
+        arg+=weight[(dimension+2)*i-1];
+        double s=sig(arg);
+        double w1=weight[(dimension+2)*i-(dimension+1)-1];
+        double w2=weight[(dimension+2)*i-(dimension+1)+pos-1];
+        per+=w1*w2*w2*((1-s)*(1-2*s)+2*(1-s)*(1-s));
+    }
+    return per;
+}
+
 void	NeuralParser::getX2Deriv(vector<double> xpoint,int pos,vector<double> &g)
 {
 	double v=0.0;
@@ -328,6 +346,22 @@ void	NeuralParser::getX2Deriv(vector<double> xpoint,int pos,vector<double> &g)
 	}
 }
 
+void	NeuralParser::getX3Deriv(vector<double> xpoint,int pos,vector<double> &g)
+{
+    vector<double> g2=g;
+    vector<double> g3=g;
+    for(int i=0;i<(int)xpoint.size();i++)
+    {
+            double eps=pow(1e-18,1.0/3.0)*fmax(1.0,fabs(xpoint[i]));
+            xpoint[i]+=eps;
+            getX2Deriv(xpoint,pos,g2);
+            xpoint[i]-=2.0 *eps;
+            getX2Deriv(xpoint,pos,g3);
+            g[i]=(g2[i]-g3[i])/(2.0 * eps);
+            xpoint[i]+=eps;
+    }
+}
+
 void	NeuralParser::getMargins(Data &l,Data &r)
 {
 	l.resize(weight.size());
@@ -340,15 +374,16 @@ void	NeuralParser::getMargins(Data &l,Data &r)
 		for(int j=1;j<=dimension;j++)
 		{
 			mypos=(dimension+2)*i-(dimension+1)+j;
-			l[mypos-1]=-10;
-			r[mypos-1]= 10;
+            l[mypos-1]=-100;
+            r[mypos-1]= 100;
 		}
-		l[(dimension+2)*i-1]=-10;
-		r[(dimension+2)*i-1]= 10;
+        l[(dimension+2)*i-1]=-100;
+        r[(dimension+2)*i-1]= 100;
 
 		l[(dimension+2)*i-(dimension+1)-1]=-100;
 		r[(dimension+2)*i-(dimension+1)-1]= 100;
-	}
+    }
+
 }
 
 NeuralParser::~NeuralParser()
