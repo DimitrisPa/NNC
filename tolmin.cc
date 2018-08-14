@@ -2074,19 +2074,17 @@ double tolmin(Data  &x,MinInfo &Info)
 	Data x1,x2;
 	Info.problem->neuralparser->getWeights(x1);
 	Info.problem->neuralparser->getWeights(x2);
-	Info.problem->neuralparser->getMargins(x1,x2);	
+    Info.problem->neuralparser->getMargins(x1,x2);
     for(int i=0;i<n;i++)
     {
 			xp[i]=x[i];
-			
-			xl[i]=x1[i];
+            		xl[i]=x1[i];
 			xu[i]=x2[i];
-			
 			if(fabs(x[i])<1e-7) {xl[i]=xu[i]=0.0;}
 			else
 			{
-				xl[i]=  -100;//-fabs(2*x[i]);//-100
-				xu[i]=   100;//fabs(2* x[i]);//100
+                xl[i]= -2*fabs(x[i]);//-100;
+                xu[i]=  2*fabs(x[i]);//100;
 			}
 			
 		}
