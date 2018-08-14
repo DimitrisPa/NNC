@@ -26,7 +26,7 @@ void	print_usage()
 			"\t-s	Specify selection rate.\n"
 			"\t-m	Specify	mutation  rate.\n"
 			"\t-r	Specify	random seed.\n"
-            "\t-k	Specify kind of the network.(neural,ode,pde,sode)\n"
+            "\t-k	Specify kind of the network.(neural,ode,pde,sode,kdv)\n"
             "\t-o   Specify plot file.\n"
 			"\t-n	Specify maximum number of generations.\n"
             "\t-g   Specify local search generations\n"

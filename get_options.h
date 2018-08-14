@@ -10,7 +10,7 @@ extern double mutation_rate;
 extern  QString   train_file;
 extern  QString    test_file;
 extern  void	parse_cmd_line(int argc,char **argv);
-extern	QString  kind;//neural, ode, pde, sode
+extern	QString  kind;//neural, ode, pde, sode, kdv
 extern	int 	generations;
 extern  QString  output_file;
 extern int localSearchGenerations;
