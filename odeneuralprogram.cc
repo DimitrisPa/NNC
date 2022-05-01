@@ -77,6 +77,10 @@ OdeNeuralProgram::OdeNeuralProgram(QString filename)
     if(ode2ff==NULL) fode2ff=(GFODE2FF)ptr->resolve("ode2ff_");
     if(fode2ff==NULL) fode2ff=(GFODE2FF)ptr->resolve("_ode2ff_");
 
+    dode2ff=(GDODE2FF)ptr->resolve("dode2ff");
+    if(dode2ff==NULL) dode2ff=(GDODE2FF)ptr->resolve("_dode2ff");
+    if(dode2ff==NULL) fdode2ff=(GFDODE2FF)ptr->resolve("dode2ff_");
+    if(fdode2ff==NULL) fdode2ff=(GFDODE2FF)ptr->resolve("_dode2ff_");
 	for(int i=0;i<trainx.size();i++)
 	{
 		trainx[i].resize(1);

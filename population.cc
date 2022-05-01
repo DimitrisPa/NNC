@@ -163,11 +163,19 @@ void	Population::calcFitnessArray()
 	vector<int> g;
 	g.resize(genome_size);
 
+	double dmin = 1e+100;
 	for(int i=0;i<genome_count;i++)
 	{
 		for(int j=0;j<genome_size;j++) g[j]=genome[i][j];	
 			fitness_array[i]=fitness(g);	
+		if(fabs(fitness_array[i])<dmin) dmin=fabs(fitness_array[i]);
+		if(i%10==0)
+		{
+			printf("%d:%lf ",i,dmin);
+			fflush(stdout);
+		}
 	}
+	printf("\n");
 }
 
 /* Return the current generation */
